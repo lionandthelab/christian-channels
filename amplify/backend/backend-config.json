@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "christianchannels72dce7f1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

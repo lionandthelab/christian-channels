@@ -1,0 +1,19 @@
+npm install -g @aws-amplify/cli
+amplify configure
+
+
+#
+root
+130720566814
+
+#
+ikess-IAM
+
+Access key ID
+AKIAR434NRYPAGYIV57X
+
+Secret access key
+7Ooa/JGbTFJhIvvAeM2vfVdv4OJ0/wFIB+IpY2nU
+
+#
+npm install aws-amplify @aws-amplify/ui-react
